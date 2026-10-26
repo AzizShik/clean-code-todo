@@ -1,7 +1,7 @@
 // Event handling, user interaction is what starts the code execution.
 
 const newTaskInput = document.getElementById('new-task');
-const addButton = document.getElementsByTagName('button')[0];
+const addButton = document.getElementById('addButton');
 const todoList = document.getElementById('incompleteTasks');
 const completedList = document.getElementById('completed-tasks');
 
