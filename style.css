@@ -4,23 +4,23 @@ body {
   font-family: Lato, sans-serif;
 }
 
-.aaa {
+.header-preview {
   width: 500px;
   margin: 0 auto;
   display: block;
   text-align: right;
 }
 
-.aaa img {
+.header-preview img {
   width: 100%;
 }
 
-.aaa .more_inf {
+.header-preview .more_inf {
   font-family: fantasy, cursive;
 }
 
 @media (max-width: 768px) {
-  .aaa {
+  .header-preview {
     text-align: center;
   }
 }
